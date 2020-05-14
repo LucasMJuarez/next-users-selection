@@ -1,3 +1,13 @@
+Capturas del mismo:
+
+[![img1.png](https://i.postimg.cc/hPLVFcJb/img1.png)](https://postimg.cc/HVLrXG9V)
+
+[![img2.png](https://i.postimg.cc/13yws2wx/img2.png)](https://postimg.cc/ZCDCLfwj)
+
+Videos de funcionamiento: 
+https://www.youtube.com/watch?v=amWo77eTH1U
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
